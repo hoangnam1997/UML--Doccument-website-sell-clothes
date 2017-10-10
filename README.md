@@ -2,5 +2,3 @@
 .Uml.
 .Quản lý dự án.
 .Phát triển ứng dụng web.
-ahihi
-test branches
